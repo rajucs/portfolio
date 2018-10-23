@@ -1095,7 +1095,7 @@ header .row {
 }
 header .top-bar {
 	display: block;
-	background: #000000;
+	background: navy;
 	min-width: 220px;
 	min-height: 66px;
 	position: absolute;
@@ -1138,7 +1138,7 @@ header .logo a {
 }
 .menu-toggle span {
 	display: block;
-	background-color: #FF0077;
+	background-color: #cc005f;
 	width: 24px;
 	height: 3px;
 	margin-top: -1.5px;
