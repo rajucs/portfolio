@@ -286,6 +286,10 @@
 
 		}		
 
-	});		
+	});	
+
+	var fulldate = new Date();
+	var currentyear = fulldate.getFullYear();
+	document.getElementById('currentYear').innerHTML = currentyear;
 
 })(jQuery);
