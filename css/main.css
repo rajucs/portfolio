@@ -1511,7 +1511,7 @@ header .logo a {
 	float: left;
 }
 .intro-info .lead {
-	text-align: left;
+	text-align: justify;
 	padding-left: 13rem;
 }
 
@@ -2151,6 +2151,7 @@ header .logo a {
 }
 .services-list .desc {
 	color: rgba(255, 255, 255, 0.6);
+	text-align: justify;
 }
 
 /* pagination */
