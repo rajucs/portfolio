@@ -1382,9 +1382,11 @@ header .logo a {
 	font-size: 1.3rem;
 	text-transform: uppercase;
 	letter-spacing: .25rem;
+
 }
 .intro-content .button:hover, .intro-content .button:focus {
 	border-color: #cc005f;
+	background-color: navy !important;
 }
 .intro-content .button::after {
 	display: inline-block;
